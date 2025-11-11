@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-11-07T22:19:15.297Z",
+  "settings": {
+    "policy": "rolling_summary",
+    "maxTokens": 4096,
+    "model": "gpt2-large",
+    "telemetry": true,
+    "darkMode": false
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "Write a Python function to sort a list",
+      "timestamp": 1762553945348
+    }
+  ]
+}
